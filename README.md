@@ -12,4 +12,5 @@ Spring Boot Jersey Docker Reference Implementation
 
 Build the project using maven and deploy to the container of your choice and invoke the endpoint mentioned above.
 
-Note - This is the base code of spring boot jersey implementation and advanced feature's of Spring boot and spring cloud is yet to be added.
+Note - This is the base code of spring boot jersey with docker implementation and advanced feature's of Spring boot and spring cloud is yet to be added.
+

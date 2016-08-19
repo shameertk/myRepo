@@ -1,4 +1,4 @@
-package com.fz.smartrez.availability;
+package com.shatk.rez.availability;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
