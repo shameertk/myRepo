@@ -1,5 +1,5 @@
-# spring-boot-jersey 
-Spring Boot Jersey Reference Implementation
+# spring-boot-docker 
+Spring Boot Jersey Docker Reference Implementation
 
 # To run the project :
 
