@@ -1,5 +1,5 @@
 # spring-boot-docker 
-Spring Boot Jersey Docker Reference Implementation
+Micro Service Reference Implementation using Spring Boot, Jersey and Docker Stack
 
 # To run the project :
 
